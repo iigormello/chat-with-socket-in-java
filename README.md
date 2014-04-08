@@ -1,0 +1,4 @@
+chat-with-socket-in-java
+========================
+
+Sistema de chat com socket em java. Projeto desenvolvido na IDE NetBeans para fins de testes de redes com socket.
