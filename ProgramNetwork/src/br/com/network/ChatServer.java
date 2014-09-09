@@ -10,10 +10,6 @@ import java.util.Scanner;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-/**
- *
- * @author MELLO
- */
 public class ChatServer {
     
     private ArrayList<PrintWriter> escritores = new ArrayList<>();
