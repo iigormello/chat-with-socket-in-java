@@ -18,10 +18,6 @@ import javax.swing.JScrollPane;
 import javax.swing.JTextArea;
 import javax.swing.JTextField;
 
-/**
- *
- * @author MELLO
- */
 public class ChatCliente extends JFrame {
     
     private JTextField textoParaEnviar;
